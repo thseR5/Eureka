@@ -4,7 +4,7 @@ Eureka is an interactive Socratic learning platform for STEM subjects. Designed 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 1. **Socratic AI Engine**: Fully guided dialogue using a dynamic system prompt structure that maintains a strict question ladder, adapting hints based on student frustration levels.
 2. **Misconception Detection**: Instant client-side trigger matching that flags common historical misunderstandings (e.g., Aristotle's 2000-year gravity error) and guides the AI model to probe the student's reasoning.
@@ -14,7 +14,7 @@ Eureka is an interactive Socratic learning platform for STEM subjects. Designed 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Frontend**: React, Next.js (App Router), TypeScript, Tailwind CSS
 * **Animations**: Canvas APIs, D3.js, Vanilla CSS Animations
@@ -22,7 +22,7 @@ Eureka is an interactive Socratic learning platform for STEM subjects. Designed 
 
 ---
 
-## 💻 Local Setup & Development
+## Local Setup & Development
 
 ### 1. Configure Environment Variables
 Create a `.env` file in the root folder and add your Gemini API key:
